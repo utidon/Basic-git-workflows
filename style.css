@@ -19,4 +19,6 @@ body {
             color: #004d6e; /* A deeper shade of blue for the heading */
             text-decoration: underline;
         }
-   
+        hidden {
+	    display: none;
+	}
